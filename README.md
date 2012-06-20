@@ -6,7 +6,7 @@ There seem to be some issues around theming the login form, this module makes it
 ## Installation
 
     cd <root of your installation>
-	git clone git://github.com/gordonbanderson/weboftalent-loginform.git
+    git clone git://github.com/gordonbanderson/weboftalent-themeable-login-form.git
 
 ## Configuration
 ### Login Form Template
