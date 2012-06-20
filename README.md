@@ -1,7 +1,7 @@
 Login Form Theming
 ==================
 
-There seem to be some issues around theming the login form, this module makes it nice and simple.
+There seem to be some issues around theming the login form, this module makes it nice and simple.  The main use case here is one of overriding the actual Form itself (e.g. adding twitter bootstrap classes).
 
 ## Installation
 
